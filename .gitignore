@@ -135,10 +135,10 @@ dmypy.json
 *.docx
 
 # data
-*.csv
-*.json
-*.xlsx
-*.xls
+#*.csv
+#*.json
+#*.xlsx
+#*.xls
 
 # macos
 *.DS_Store
